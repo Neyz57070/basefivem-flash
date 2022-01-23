@@ -1,0 +1,2 @@
+# basefivem-flash
+cc
